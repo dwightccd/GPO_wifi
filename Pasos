@@ -1,0 +1,7 @@
+Exportar configuracion WIFI a un archivo XML
+
+Importar configuracion Wifi desde un archivo XML
+
+Crear .bat con comando para importar el archivo XML con la configuracion de la Wifi
+
+Crear GPO para ejecutar el archivo .bat en el inicio de sesion para cargar la informacion de la red wifi desde el archivo XML
